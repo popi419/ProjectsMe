@@ -1,4 +1,4 @@
-Shotgun Jumper - 2d shooter scroller game made in Gamemaker Engine and GML. Shoot under yourself to jump higher.
+Shotgun Jumper - 2d shooter scroller game made in Gamemaker Engine and GML. Shoot under yourself to jump higher and shoot/avoid the enemies.
 
 university Connector - Eclipse Java project connecting to a university server to read, obtain and sell virtual cards given by said server
 
